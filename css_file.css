@@ -1,0 +1,55 @@
+#heading {
+    color: whitesmoke;
+}
+
+body{
+    background-image: url("background.webp");
+    /*background-image: linear-gradient(to right, #5a3f37, #2c7744);
+*/}
+
+.text_{
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    font-size: 30px;
+}
+
+.car-table{
+    justify-content: center;
+}
+
+h4{
+    text-align: center;
+    color: whitesmoke;
+}
+
+.center{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button{
+    align-items: center;
+}
+
+a{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    color: whitesmoke;
+    font-size: 40px;
+}
+
+h1{
+    color: red;
+}
+
+.car{
+    background-color: gray;
+}
+
+img{
+    background-color: blue;
+}
